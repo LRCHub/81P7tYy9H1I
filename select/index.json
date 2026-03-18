@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "base_track": "白春夢",
+  "base_artist": "My Hair is Bad",
+  "createdAt": "2026-03-18T22:49:10.520648Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "白春夢",
+      "artist": "My Hair Is Bad",
+      "has_synced": true,
+      "path": "select/01_白春夢_My_Hair_Is_Bad.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "白春夢 - Hakusyunmu",
+      "artist": "My Hair Is Bad",
+      "has_synced": true,
+      "path": "select/02_白春夢_-_Hakusyunmu_My_Hair_Is_Bad.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "白春夢",
+      "artist": "My Hair is Bad",
+      "has_synced": false,
+      "path": "select/pl_01_白春夢_My_Hair_is_Bad.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "白春夢",
+      "artist": "My Hair is Bad",
+      "has_synced": true,
+      "path": "select/localdb_01_白春夢_My_Hair_is_Bad.lrc",
+      "repo_name": "81P7tYy9H1I"
+    }
+  ]
+}
